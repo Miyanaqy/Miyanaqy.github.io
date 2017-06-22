@@ -3,7 +3,7 @@ layout: default
 title: Miyanaqy blog
 ---
 
-{% for rpost in paginator.posts %}
+{% for rpost in site.posts %}
 <article class="main-article">
 	<div class="violet-post">
 		<h3 class="main-article-title"><a href="{{ rpost.url }}" title="{{ rpost.title }}" rel="bookmark">{{ rpost.title }}</a></h3>
