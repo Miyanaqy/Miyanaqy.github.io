@@ -1,6 +1,6 @@
 markdown: redcarpet
 baseurl: /jekyll_demo
-url: http://Miyanaqy.github.io/
+url: //Miyanaqy.github.io
 title: Miyanaqy Blog
 paginate: 8
 permalink: /:year/:month/:day/:title/
