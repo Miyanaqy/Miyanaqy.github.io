@@ -1,3 +1,4 @@
+markdown: redcarpet
 baseurl: /jekyll_demo
-themes: /themes/violet
 url: http://Miyanaqy.github.io/
+title: Miyanaqy Blog
