@@ -6,4 +6,4 @@ paginate: 8
 permalink: /:year/:month/:day/:title/
 
 safe: false
-themes: themes/violet
+themes: /themes/violet
