@@ -2,3 +2,8 @@ markdown: redcarpet
 baseurl: /jekyll_demo
 url: http://Miyanaqy.github.io/
 title: Miyanaqy Blog
+paginate: 8
+permalink: /:year/:month/:day/:title/
+
+safe: false
+themes: /themes/violet
